@@ -2,6 +2,8 @@
 
 Ruby implementation of a modified Shelf Next Fit algorithm where boxes can exceed shelf width.
 
+More info: http://clb.demon.fi/files/RectangleBinPack.pdf
+
 ## Contributing
 
 1. Fork it ( https://github.com/fotinakis/shelfnextfit/fork )
